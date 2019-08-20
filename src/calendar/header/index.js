@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { ActivityIndicator } from "react-native";
+import { ActivityIndicator, ImageBackground } from "react-native";
 import { View, Text, TouchableOpacity, Image } from "react-native";
 import XDate from "xdate";
 import PropTypes from "prop-types";
